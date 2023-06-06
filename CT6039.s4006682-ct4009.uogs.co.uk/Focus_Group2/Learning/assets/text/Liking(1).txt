@@ -1,0 +1,1 @@
+Fred creates a fake social media profile to engage with company employees with similar interests. After building relationships and gaining their trust, Fred sends a phishing link disguised as a project proposal. Jack clicks on the link, installs malware onto their computer, and gives Fred access to the company's network.
