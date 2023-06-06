@@ -1,0 +1,7 @@
+"id","scenario_name","block_source","learning"
+"1","Authority","assets/text/Authority(1).txt","assets/text/Authority(2).txt"
+"2","Commitment & Consistency ","assets/text/consistency(1).txt","assets/text/consistency(2).txt"
+"3","Liking","assets/text/Liking(1).txt","assets/text/Liking(2).txt"
+"4","Reciprocity","assets/text/Reciprocity(1).txt","assets/text/Reciprocity(2).txt"
+"5","Scarcity","assets/text/Scarcity(1).txt","assets/text/Scarcity(2).txt"
+"6","Social Proof","assets/text/Social_Proof(1).txt","assets/text/Social_Proof(2).txt"
